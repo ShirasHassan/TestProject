@@ -192,11 +192,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/shirashassan/Projects/Excercises.TestProject/TestProject/TestProject.csproj",
+      "projectUniqueName": "/Users/shirashassan/Projects/TestProject/src/TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "/Users/shirashassan/Projects/Excercises.TestProject/TestProject/TestProject.csproj",
+      "projectPath": "/Users/shirashassan/Projects/TestProject/src/TestProject.csproj",
       "packagesPath": "/Users/shirashassan/.nuget/packages/",
-      "outputPath": "/Users/shirashassan/Projects/Excercises.TestProject/TestProject/obj/",
+      "outputPath": "/Users/shirashassan/Projects/TestProject/src/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/shirashassan/.config/NuGet/NuGet.Config"
