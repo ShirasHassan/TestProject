@@ -5,6 +5,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "src\TestProj
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7C0822FC-2960-4FC1-8ED5-F6F0A24A363B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{68CC9752-D560-45FF-BE7E-EA503AB4804D}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +23,36 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{7E3EC2F2-CE4F-47C8-A2F3-E1AED484F416} = {7C0822FC-2960-4FC1-8ED5-F6F0A24A363B}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$1.ResourceNamePolicy = MSBuild
+		$0.TextStylePolicy = $2
+		$2.inheritsSet = null
+		$2.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $3
+		$3.scope = text/x-csharp
+		$0.TextStylePolicy = $4
+		$4.FileWidth = 80
+		$4.TabsToSpaces = True
+		$4.scope = text/plain
+		$0.TextStylePolicy = $5
+		$5.inheritsSet = null
+		$5.scope = text/x-json
+		$0.JSONFormattingPolicy = $6
+		$6.AutoStructureCompletion = True
+		$6.BracePositions = SemiExpanded
+		$6.FormatOnPaste = True
+		$6.scope = text/x-json
+		$0.TextStylePolicy = $7
+		$7.inheritsSet = null
+		$7.scope = text/x-web
+		$0.TextStylePolicy = $8
+		$8.inheritsSet = null
+		$8.scope = text/x-vs
+		$0.StandardHeader = $9
+		$0.VersionControlPolicy = $10
 	EndGlobalSection
 EndGlobal
